@@ -1,5 +1,5 @@
 import React from "react";
-import PublicLayout from "./hoc/PublicLayout/PublicLayout";
+import PublicLayout from "./layout/PublicLayout/PublicLayout";
 
 const App = () => {
    return (
